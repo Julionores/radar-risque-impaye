@@ -14,8 +14,8 @@ accuracy, alors qu'il est le seul des deux réellement utile.
 > portfolio technique orienté Machine Learning. Voir aussi
 > [`gradientforge`](https://github.com/Julionores/gradientforge), un moteur de régression et
 > classification codé en NumPy pur,
-> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner), et
-> l'ensemble du portfolio :
+> [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner),
+> [`ticket-tide`](https://github.com/Julionores/ticket-tide), et l'ensemble du portfolio :
 > [`devsecops-pipeline-reference`](https://github.com/Julionores/devsecops-pipeline-reference),
 > [`securebank-api`](https://github.com/Julionores/securebank-api),
 > [`postgresql-ha-repmgr`](https://github.com/Julionores/postgresql-ha-repmgr),

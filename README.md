@@ -27,8 +27,9 @@ accuracy, alors qu'il est le seul des deux réellement utile.
 > [`dynamodb-streams-cdc-pipeline`](https://github.com/Julionores/dynamodb-streams-cdc-pipeline),
 > [`aws-troubleshooting-challenge`](https://github.com/Julionores/aws-troubleshooting-challenge),
 > [`s3-cross-region-replication`](https://github.com/Julionores/s3-cross-region-replication),
-> [`aws-alb-deployment-patterns`](https://github.com/Julionores/aws-alb-deployment-patterns) et
-> [`aws-vpc-connectivity-patterns`](https://github.com/Julionores/aws-vpc-connectivity-patterns).
+> [`aws-alb-deployment-patterns`](https://github.com/Julionores/aws-alb-deployment-patterns),
+> [`aws-vpc-connectivity-patterns`](https://github.com/Julionores/aws-vpc-connectivity-patterns) et
+> [`mcp-odoo-toolkit`](https://github.com/Julionores/mcp-odoo-toolkit).
 > Ce projet accompagne le module 4 de mon
 > [cours Machine Learning & Deep Learning](https://blog.jtmcloud.com/machine-learning/04-classification-supervisee/).
 
